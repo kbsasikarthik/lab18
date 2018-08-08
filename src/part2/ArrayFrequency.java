@@ -2,6 +2,7 @@
 package part2;
 
 // This program finds the occurrences of a number in an array and puts it in another array
+// Big O - O(n)
 public class ArrayFrequency {
 	 
     public static void main(String[] args) {

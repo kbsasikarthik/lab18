@@ -5,6 +5,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 
 // This class finds the occurrences of a number from an array and puts the corresponding number and its occurrences in a HashMap
+// Big O - O(n)
 public class UsingHashMap {
 
 	public static void main(String[] args) {
